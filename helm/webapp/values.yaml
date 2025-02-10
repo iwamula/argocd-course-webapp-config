@@ -8,7 +8,7 @@ image:
   repository: iwamula/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
+  tag: 4ba4c846879c2b153e963364cd18eac6331e98e8
 
 imagePullSecrets: []
 nameOverride: ""
